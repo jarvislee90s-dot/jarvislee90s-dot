@@ -25,8 +25,6 @@
 ## 联系我
 
 - 📧 Email: jarvislee90s@gmail.com
-- ☎️ 公司座机: 021-XXXX-XXXX（工作日 9:00-18:00）
-- 💼 LinkedIn: [你的 LinkedIn 链接]
 
 > 本主页内容为个人技术分享，不代表所在公司观点。
 
@@ -45,7 +43,5 @@ I work in the securities industry with hands-on experience in financial data, qu
 ## Contact
 
 - 📧 Email: jarvislee90s@gmail.com
-- ☎️ Office: 021-XXXX-XXXX (weekdays 9:00-18:00)
-- 💼 LinkedIn: [your LinkedIn URL]
 
 > All content here is personal and does not represent the views of my employer.
