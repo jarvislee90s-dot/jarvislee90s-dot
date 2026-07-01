@@ -7,6 +7,11 @@
 - 📊 对金融市场数据、宏观经济数据、学术论文数据的自动化获取与分析感兴趣
 - 🤝 欢迎 AI 应用、金融数据工程、量化工具、自动化办公方向的合作
 
+## 开源贡献
+
+- 🛠️ [CodexPlusPlus #1197](https://github.com/BigPizzaV3/CodexPlusPlus/pull/1197) · 已合并
+  为 CodexPlusPlus 实现按模型粒度配置上下文窗口，并修复大模型被提前压缩的 bug。
+
 ## 技术栈
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,6 +38,11 @@
 # Hi, I'm Jarvis 👋
 
 I work in the securities industry with hands-on experience in financial data, quant systems, and internal tooling. In my spare time I build AI-related projects, especially around LLM applications, AI agents, and data engineering.
+
+## Open Source Contributions
+
+- 🛠️ [CodexPlusPlus #1197](https://github.com/BigPizzaV3/CodexPlusPlus/pull/1197) · Merged
+  Enabled per-model context window config in CodexPlusPlus and fixed premature auto-compaction for large-context models.
 
 ## What I can help with
 
